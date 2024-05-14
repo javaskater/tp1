@@ -1,3 +1,3 @@
 ## Mode d'emploi
 * Salut pour lancer notre code faire **python multiplication.py**
-  * Modifications en Local (VSCode)
+  * Ajout d'une ligne distante (en ligne) et locale à la fois (le meilleur des 2 mondes)
